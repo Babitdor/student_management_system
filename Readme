@@ -6,8 +6,8 @@ Student Management System (College Assignment Project)
 Built a web based application which is used to manage/store
 student & professor details, with their own individual profiles. 
 
-Used Django Framework and MySQL for backend
+Used Django Framework, Python, and MySQL for backend
 
-Python, HTML/CSS for the Frontend.
+HTML, Bootstrap for the Frontend.
 
 
